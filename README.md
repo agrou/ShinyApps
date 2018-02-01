@@ -11,4 +11,6 @@ Here you can find and test my published Shiny Web apps:
 
 * https://agrou.shinyapps.io/proximapalavraapp/
 
+**Eurostat data on employment**
 
+* https://agrou.shinyapps.io/euro_employment_app/
